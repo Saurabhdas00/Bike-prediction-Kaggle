@@ -32,7 +32,7 @@ This project aims to predict the prices of motorcycles based on various features
 
 > **Note:** In this project, we didn't check for null values because the dataset is from Kaggle, and this check has already been performed in another step. However, if you want to perform Exploratory Data Analysis (EDA), you can include this step to ensure data quality.
 
->> **Note:** In this Project,I didn't add the generated model because it was more than 25 mb because the algo I use is not so good it was for learning
+> **Note:** In this Project,I didn't add the generated model because it was more than 25 mb because the algo I use is not so good it was for learning
 
 ## 🛠️ Installation
 
