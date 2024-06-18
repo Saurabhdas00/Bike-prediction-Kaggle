@@ -13,8 +13,7 @@ motorcycle-price-prediction/
 │   ├── test.csv
 ├── notebooks/
 │   ├── motorcycle_price_prediction.ipynb
-├── README.md
-└── requirements.txt
+└── readme.md
 ```
 
 ## 📋 Table of Contents
@@ -48,11 +47,7 @@ To get started with this project, follow these steps:
     cd motorcycle-price-prediction
     ```
 
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+3. Install the required packages using Pip
 ## 📊 Data
 
 The dataset is divided into two parts:
@@ -120,15 +115,10 @@ To use the model for predicting motorcycle prices, follow these steps:
 
 We welcome contributions to this project! If you have any suggestions or improvements, feel free to submit a pull request. Please ensure your contributions adhere to the project's coding standards and guidelines.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 Happy coding! 🏍️📊✨
 
-For any queries or issues, please contact [yourname@example.com](mailto:yourname@example.com).
+For any queries or issues, please contact [Saurabh2408@gmail.com](mailto:saurabhdas2408@gmail.com).
 
 ---
 ```
