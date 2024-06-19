@@ -119,7 +119,5 @@ We welcome contributions to this project! If you have any suggestions or improve
 
 Happy coding! 🏍️📊✨
 
-For any queries or issues, please contact [Saurabh2408@gmail.com](mailto:saurabhdas2408@gmail.com).
+For any queries or issues, please contact [Saurabhdas2408@gmail.com](mailto:saurabhdas2408@gmail.com).
 
----
-```
